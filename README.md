@@ -8,3 +8,5 @@
 electronhuo/electronhuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->I am a doc. candidate in Tsinghua univesity,CHINA.
+    my research area covers the process intensification with microreactor and the fluid phenomenon in micro-devices
+    Hope to following the steps on the CFD simulation
